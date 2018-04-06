@@ -10,10 +10,9 @@ body {
     margin-right: 10px;
 }
 
-/* button {
-    margin: 10px;
-    height: 50px;
-} */
+.btn {
+    padding: 0;
+}
 
 img {
     height: 100px;
