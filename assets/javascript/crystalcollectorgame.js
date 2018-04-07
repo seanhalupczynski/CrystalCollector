@@ -80,7 +80,7 @@
         };
         // Alert loss and ask to play again
         if (values.targetValue < userScore) {
-            alert("You loss.");
+            alert("You lose.");
             var playAgainLoss = confirm("Would you like to play again?");
             // Incrementing losses
             if (playAgainLoss == true) {
